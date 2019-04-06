@@ -4,6 +4,8 @@ package leetcode.level.easy;
  * 
  * Problem : Jewels and Stone
  * Level : Easy
+ * Date : 2019.04.05
+ * Writer : Yun Young
  * 
  * You're given strings J representing the types of stones that are jewels,
  * and S representing the stones you have. 
