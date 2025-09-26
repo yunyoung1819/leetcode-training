@@ -17,7 +17,6 @@ import java.util.Deque;
  * 3. Every close bracket has a corresponding open bracket of the same type.
  */
 public class ValidParentheses {
-
     public static void main(String[] args) {
         String s = "()[]{}";
         System.out.println(isValid(s));
