@@ -5,7 +5,8 @@ import java.util.Deque;
 
 /**
  * title: 20. Valid Parentheses
- * date: 2025.09.26 author: yun young
+ * date: 2025.09.26
+ * author: yun young
  * link: https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=string
  * description: Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
  * determine if the input string is valid.
