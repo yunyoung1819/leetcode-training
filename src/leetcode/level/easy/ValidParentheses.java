@@ -4,14 +4,16 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * title: 20. Valid Parentheses date: 2025.09.26 author: yun young link:
- * https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=string
+ * title: 20. Valid Parentheses
+ * date: 2025.09.26 author: yun young
+ * link: https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=string
  * description: Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
  * determine if the input string is valid.
  * <p>
- * An input string is valid if: 1. Open brackets must be closed by the same type of brackets. 2.
- * Open brackets must be closed in the correct order. 3. Every close bracket has a corresponding
- * open bracket of the same type.
+ * An input string is valid if:
+ * 1. Open brackets must be closed by the same type of brackets.
+ * 2. Open brackets must be closed in the correct order.
+ * 3. Every close bracket has a corresponding open bracket of the same type.
  */
 public class ValidParentheses {
 
