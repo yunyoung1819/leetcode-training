@@ -28,7 +28,9 @@ public class BackspaceStringCompare1 {
         Stack<Character> ans = new Stack<>();
         for (int i = 0; i < str.length(); i++) {
             if (str.charAt(i) == '#') {
-                if (!ans.isEmpty()) ans.pop();
+                if (!ans.isEmpty())  {
+                    ans.pop();
+                }
             } else {
                 ans.push(str.charAt(i));
             }
